@@ -1,3 +1,4 @@
+<img width="1000" height="221" alt="minecraft-advancement__Achievement Get!_Discovered Friday&#39;s Profile_" src="https://github.com/user-attachments/assets/1811e05f-1b4a-4b22-9d6f-b25828404944" />
 <h1 align="center">Hi 👋, I'm Friday Francis</h1>
 <h3 align="center">A teenager Interested In Tech</h3>
 
