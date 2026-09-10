@@ -30,7 +30,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,git,github,docker,arduino,figma,blender" alt="Web, Tools & Design" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FridayFrancis67&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FridayFrancis67&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Most Used Languages" />
 </p>
